@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{C1EDD5B1-BAE1-F6DD-1BE8-53B972F03908}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TargetExit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayAgain.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TargetExit.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Box Shooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TargetExit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d70f8edb-06f3-4887-acdd-a1257cd67829" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
