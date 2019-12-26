@@ -21,5 +21,6 @@ public class RespawnSanta : MonoBehaviour
     {
         int scene = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(scene, LoadSceneMode.Single);
+        Application.Quit();
     }
 }
